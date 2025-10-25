@@ -1,4 +1,3 @@
-
 # Session 2
 
 ## Events
@@ -54,30 +53,3 @@ Vaeril himself is still just harbour master. He has just felt the financial pres
 Guards will now be looking out for the party as they are suspects in the office ransacking. Also this news will spread to Serpent & Ember who will suspect them of being involved in 
 
 </details>
-
-
-# Session 1
-
-## Events
-
-The session began with setting the scene at the Lantern's End Tavern in Saltmarket Wharf, on the Dockside of Porta Fortuna. The party had spent the evening at Lantern's End, for their own reasons. They did not know each other at this point and just so happened to be in the same place at the same time. After the last call at the Tavern was made and everyone started to leave, the party all walked back through the heavy fog.
-
-They heard the struggle of Edran Cale, screaming for help before being downed and slowly being dragged away. The party went over to investigate to find two Serpent & Ember men dragging Edran away. They initiated combat and Gil'Maris finished one of them off by hitting them in the face with a Ray of Frost. The man's face froze solid and cracked before falling apart. Halen finished the second man, goring him through the abdomen and slashing open his insides.
-
-Edran was revived by Thalwen, who casted a healing word on him. The level of healing was so strong that he immediately bolted up. He was shellshocked and took some calming down by the party after the combat. He was a dock clerk dealing with shipments going in and out of the harbour. He noticed one of the companies were moving shipments on a ship with no name with no destination and mismatching weights. He found out they were Serpent & Ember after asking around but this caught their attention. Edran said they were following him for weeks and he thought he was about to die.
-
-The party asked him to lead them to the docks. Edran took them to the docks and they found the ship.
-
-The session ended with them seeing a damaged crystal on deck and a sleeping guard dog.
-
-
-
-## Clues
-
-At the docks on board the Serpent & Ember ship, they found a lone crystal that was cracked and left on the deck
-
-The shortsword of one of the Serpent & Ember men killed had a snake coiled around the hilt.
-
-## Points to Note
-
-The party left the two bodies of the Serpent & Ember men in the alleyway where they killed them.
