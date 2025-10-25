@@ -1,0 +1,1 @@
+This is a set of files for a Dunegons and Dragons campaign. The whole world is homebrew more or less with details borrowed from dungeons and dragons lore. This is a personal project mainly for my own DM-ing but if you like what you see feel free to borrow what you like. Just bear in mind my worldbuiding leaves a fair amount to be desired.
