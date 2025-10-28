@@ -1,18 +1,38 @@
 # Session 1
 
-Scene starts at a tavern in a frontier town called Dustmere, just north of Porta Fortuna. The party will not have met each other yet. The tavern is on the surface normal, people are making their way around but there are less of the locals than you would normally expect.
+The scene opens in the frontier town of Dustmere, a wind-battered settlement just north of Porta Fortuna. The party has not yet met.
 
-Suddenly the town bell is heard from outside rung in a panic. A man runs in shouting "It happened again!". Outside, the townsfolk are gathering around the cemetery on the outskirts of town. The closer you get, you can hear cries from many people. 
+Inside the tavern, life carries on as it always does — or tries to. Laughter rings from a back table, tankards clink, and smoke coils lazily beneath the rafters. Yet something feels off. Fewer locals than usual haunt the benches, and conversations hush too quickly when strangers enter.
 
-On arrival, it can be seen that many of the graves have been dug up and the bodies of those laid to rest are missing. The townsfolk are horrified and it will be then revealed that the town has been terrorised by something for weeks. Some of the townsfolk beg the party members to help offering what little coin they have for protection and vengeance.
+At the center of the room, Brody Streets is locked in a brawl — a tavern fight meant to earn coin and attention. Tigre prowls the sidelines, playing the flamboyant commentator, his booming voice drawing bets from the onlookers. Azaroth, meanwhile, has tracked down Brugo, a traveling cleric he believes capable of lifting the curse afflicting his brother, Kaziel.
 
-Should the players venture near the cemetery, they will find that one of the graves with a stolen body belonged to Elizabeth Harris who was a cousin of Azaroth's and Kaziel's butler and also an ex-retainer employed by the Sangar family. She had been in retirement and had passed away just under a month ago. 
+The fight itself is a performance — a carefully staged scam run by Tigre and Brody. The challenger takes a few convincing blows before Brody ends the match with dramatic flair, sending his opponent crashing to the floor. As cheers rise, Tigre discreetly collects their winnings from the crowd’s wagers.
+
+Brugo, for his part, is passing through Dustmere on his journey from Luminara in Ordo Sapientium to Porta Fortuna, and might have been little more than a footnote in the evening — until the bell tolls.
+
+It rings out sharply from the town square — not the slow, measured sound of ceremony, but a frantic peal of alarm. A man bursts into the tavern, shouting:
+
+“We’ve been hit again!”
+
+Outside, townsfolk are gathering on the outskirts, near the old cemetery. As the party approaches, the air grows heavy with grief and panic. The ground is torn up. Coffins lie split, and the graves of Dustmere’s dead have been desecrated.
+
+The villagers murmur that this has been happening for weeks. They speak of shadows moving at night, of graves found empty at dawn. Many are desperate, begging the adventurers for help, offering what meager coin they can muster for protection or vengeance.
+
+Among the violated graves lies one name that cuts deeper than the rest — Elizabeth Harris, cousin to Eamon Harris, the loyal butler to Azaroth and Kaziel, and once a gardener in service to the Sangar family. She died only a month ago, peacefully in her retirement.
+
+The trail is fresh. Whatever robbed the graves has not been gone long — no more than two hours at most. Drag marks streak through the mud, leading into the wilderness.
+
+By nightfall, after hours of pursuit, a faint orange glow appears on the horizon. A campfire. Two men sit nearby, laughing quietly to themselves — until they spot the party. Their hands go to their weapons, and a massive dire wolf emerges from the shadows beside them, teeth bared.
+
+The men fight without hesitation. When the last of them falls, a note is found among their things: a meeting arranged in Porta Fortuna, three days hence, to deliver “the next haul.”
 
 <details data-secret="true"><summary>Secret</summary>
-  Thhe graves are actually being dug up by the Gallowshade Brotherhood. They are selling them on to a middleman who then takes them to Ferraria Tenebris for testing to help develop soul cages to use as a bargaining tool with Drazkul Vurntash to use in his Warforged army.
 
-  There must be a trail that Takamura will be able to determine belongs to the Gallowshade Brotherhood as the inital setup will frame the grave robberies as something like the hound of the baskervilles and the townsfolk will plead the party to help offering as much money as they possibly can in addition to any additional support they can give. Maybe make it a magnificent 7 type of town defence story
- 
+The grave robbers are agents of the Gallowshade Brotherhood, exhuming bodies for a middleman who supplies Ferraria Tenebris. She uses the corpses in her experiments, developing Dirge Cores as bargaining tools for Drazkul Vurntash and his Warforged army.
+
+A distinct trail — one that Takamura can recognize — bears the telltale marks of the Brotherhood, though at first the events will seem more like the legend of a spectral beast, something out of The Hound of the Baskervilles.
+
+The townsfolk, terrified and exhausted, plead for help. The story can unfold as a “Magnificent Seven”-style defense of Dustmere — strangers coming together to protect the helpless, uncovering darker truths buried beneath the soil.
 
 </details>
 
